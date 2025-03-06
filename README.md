@@ -23,6 +23,3 @@ L'objectif est de **structurer, importer, analyser et stocker les données** à 
 - **Docker** (pour exécuter l'application)
 
 ---
-
-## 📂 Structure du projet
-
