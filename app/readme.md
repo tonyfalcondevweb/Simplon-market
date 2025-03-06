@@ -1,8 +1,7 @@
-# Simplon-market
 # 📊 Analyse des ventes d'une PME
 
 Projet réalisé dans le cadre d'un exercice pour analyser les ventes d'une PME à partir de fichiers CSV.  
-L'objectif est de **structurer, importer, analyser et stocker les données** à l'aide de **SQLite, Node.js**.
+L'objectif est de **structurer, importer, analyser et stocker les données** à l'aide de **SQLite, Node.js**
 
 ---
 
@@ -18,7 +17,7 @@ L'objectif est de **structurer, importer, analyser et stocker les données** à 
 ## 🛠️ Technologies utilisées
 
 - **Node.js** (ES Modules)
-- **SQLite3** (pour la base de données)
+- **SQLite3**
 - **Axios** (pour récupérer les fichiers CSV)
 - **Docker** (pour exécuter l'application)
 
